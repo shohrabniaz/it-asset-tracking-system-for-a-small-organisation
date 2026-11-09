@@ -1,30 +1,38 @@
 [
   {
-    "title": "IT Asset Tracking System for a Small Organisation - intake request",
+    "title": "IT Asset Tracking System for a Small Organisation \u2014 new it asset tracking system request",
     "status": "open",
     "meta": {
+      "source": "web",
       "priority": "high"
     }
   },
   {
-    "title": "Schedule follow-up",
-    "status": "open",
+    "title": "Review it asset tracking system backlog",
+    "status": "in_progress",
     "meta": {
       "priority": "medium"
     }
   },
   {
-    "title": "Close completed onboarding",
+    "title": "Customer follow-up for it asset tracking system",
+    "status": "blocked",
+    "meta": {
+      "priority": "high"
+    }
+  },
+  {
+    "title": "Completed it asset tracking system onboarding",
     "status": "done",
     "meta": {
       "priority": "low"
     }
   },
   {
-    "title": "Waiting on customer evidence",
-    "status": "blocked",
+    "title": "QA check \u2014 it-asset-tracking-system-for-a-small-organisation",
+    "status": "open",
     "meta": {
-      "priority": "high"
+      "priority": "medium"
     }
   }
 ]
